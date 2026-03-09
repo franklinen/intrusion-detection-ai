@@ -1,0 +1,30 @@
+tensorflow>=2.12
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+
+# Visualization
+
+matplotlib>=3.7
+seaborn>=0.12
+
+# Explainable AI
+
+shap>=0.43
+
+# API
+
+fastapi>=0.110
+uvicorn>=0.29
+
+# Streaming
+
+kafka-python>=2.0
+
+# Utilities
+
+joblib>=1.3
+pydantic>=2.5
+
+python-dotenv>=1.0
+loguru>=0.7
